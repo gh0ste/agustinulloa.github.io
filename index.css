@@ -1,0 +1,47 @@
+body {
+    color: white;
+    background-color:#292a47;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: x-large;
+    font-family: monospace;
+    text-align: center;
+}
+
+h2 {
+    font-size: x-large;
+    font-family: monospace;
+    text-align: center;
+}
+
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+}
+
+a {
+    color:orange
+}
+
+h2 {
+    font-size: larger;
+    font-family: monospace;
+    text-align: center;
+}
+
+p2 {
+    font-family: monospace;
+    font-size: large;
+    text-align: center;
+}
